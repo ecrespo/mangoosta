@@ -12,3 +12,5 @@
 
 ## 6. Áreas de interes
 
+## 7. Plan de trabajo para la creación de Mangoosta
+
