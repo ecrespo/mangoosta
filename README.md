@@ -35,3 +35,11 @@ Las personas son entidades andantes de información. Queremos interconectar esas
 
 ## 7. Plan de trabajo para la creación de Mangoosta
 
+## 8. Integrantes
+
+* Jhony Grillet
+* Adriana Torres
+* Ruben Garcia
+* Rafael Areyano
+* victor Duque
+* Ernesto Crespo 
