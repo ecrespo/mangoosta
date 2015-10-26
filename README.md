@@ -14,7 +14,7 @@ La mangosta, un mamífero que habita ampliamente en las tierras del sur del cont
 
 ## 2. Visión
 
-Innovación continua, datos abiertos y vinculados
+Innovación continua, datos abiertos y vinculados, me diante una gestion y direccion Social, basada en el mutuo desarrollo coperativo entre todos los integrantes, con una gerencia de los trabajadores para los trabajadores, donde el mismo sea retribuido por su trabajo. fijando metas comunes para el bienestar social tanto de la empresa como de su entorno.
 
 ## 3. Propósito
 
@@ -22,8 +22,15 @@ Las personas son entidades andantes de información. Queremos interconectar esas
 
 ## 4. Objetivo General
 
+Proporcionar un servicio oportuno a nuestros clientes para cubrir sus necesidades, manteniendo un desarrollo socialista e inovador en sus soluciones tecnologicas.
+
 ## 5. Objetivos específicos
 
+1. Crear soluciones de software soportados en tecnologías en constante evolución.
+2. Generar confianza en los clientes y garantizar su satisfacción total, convirtiendonos en sus socios estrategicos.
+3. Mantener al personal informado y en constante aprendizaje, de las últimas tecnologías disponibles en el mercado.
+4. Ayudar al desarrollo de la sociedad venezolana mediante la creacion de oportunidades.
+5. 
 ## 6. Áreas de interés
 
 1. Datos abiertos y vinculados: Interconexión e interoperabilidad de datos y de sistemas enteros sin importar su nivel de complejidad.
@@ -34,6 +41,11 @@ Las personas son entidades andantes de información. Queremos interconectar esas
 6. Sistemas en tiempo real: Sistemas de información, control y análisis de la información con arquitecturas desacopladas y tiempos mínimos de respuesta.
 
 ## 7. Plan de trabajo para la creación de Mangoosta
+1. Definir tipo de empresa
+2. Crear estructura general 
+3. Crear los estatudos internos
+4. Definir roles
+5. establecer distribucion de cargas laborales, tiempos y reparticion de las riquesas al igual que reinversion de la misma.
 
 ## 8. Integrantes
 
