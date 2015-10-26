@@ -30,7 +30,7 @@ Proporcionar un servicio oportuno a nuestros clientes para cubrir sus necesidade
 2. Generar confianza en los clientes y garantizar su satisfacción total, convirtiendonos en sus socios estrategicos.
 3. Mantener al personal informado y en constante aprendizaje, de las últimas tecnologías disponibles en el mercado.
 4. Ayudar al desarrollo de la sociedad venezolana mediante la creacion de oportunidades.
-5. 
+
 ## 6. Áreas de interés
 
 1. Datos abiertos y vinculados: Interconexión e interoperabilidad de datos y de sistemas enteros sin importar su nivel de complejidad.
