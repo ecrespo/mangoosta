@@ -1,27 +1,149 @@
-Requisitos para crear cooperativas en Venezuela
+#Requisitos para crear cooperativas en Venezuela
 
-Las Cooperativas son empresas de producción de bienes y servicios, 
+### **Las Cooperativas son empresas de producción de bienes y servicios, 
 industrial, agrícola, pesquera, consumo, ahorro y préstamo, 
 conformada por personas con un mismo fin económico y social, 
 en donde el beneficio es determinado por la participación de 
-cada socio y no por la cantidad de dinero que haya aportado.
+cada socio y no por la cantidad de dinero que haya aportado.** ###
 
-
-
-Tipos de cooperativas:
-Producción de Bienes y Servicios.
-Consumo de Bienes y Servicios.
-Cooperativas de Ahorro y Crédito.
-Cooperativas Mixtas.
+##Tipos de cooperativas: ##
+1. Producción de Bienes y Servicios.
+2. Consumo de Bienes y Servicios.
+3. Cooperativas de Ahorro y Crédito.
+4. Cooperativas Mixtas.
 
 Requisitos para crear una cooperativa en Venezuela:
 
-1- Una cooperativa debe tener como mínimo cinco personas, con el mismo fin económico y social.
 
-2- Solicite la planilla en las oficinas de la Superintendencia Nacional de Cooperativas (SUNACOOP), y escoja el nombre de la cooperativa, luego de ser consultado en la SUNACOOP, retire la constancia que certifica que el nombre no pertenece a otra cooperativa y esta libre, llenar la planilla de solicitud y anexe copia de las cédulas de identidad de los integrantes de la cooperativa.
+## PASOS PARA CONFORMAR UNA COOPERATIVA
 
-3- Se deben reunir los miembros de la cooperativa y redactan los estatutos de la cooperativa, la estructura organizativa, las normas de funcionamiento y aporte de los miembros de la cooperativa.
+En principio hicimos revisión de la Ley Especial de Asociaciones Cooperativas a fin de tener claro los requisitos yel procedimiento a seguir; en el capítulo II de la misma se hace mención a las pautas generales para constituiruna cooperativa. Al respecto quisimos verificar la información consultada en la ley, así como estar al tanto decualquier tipo de detalle adicional; acudimos entonces a la sede regional Mérida de la SuperintendenciaNacional de Cooperativas SUNACOOP en la Av. Alberto Carnevali, vía La Hechicera, Edif. MINFRA (Tel.: 0274-2441025; correo: sunacoop_merida@yahoo.es). Finalmente constatamos los pasos generales a seguir, loscuales resumimos a continuación:
 
-4- Aprobados los estatutos por los miembros de la cooperativa, se deben legalizar y obtener la personalidad jurídica de cooperativa, en el registro subalterno de su localidad.
+##1.Cantidad de integrantes.
 
-5- Al terminar estos pasos se debe enviar al SUNACOOP, ubicado en los principales Inces de cada estado, en los primeros 15 días hábiles, los siguientes requisitos: Copia de Reserva de Denominación, copia del R.I.F. de la cooperativa, y dos copias del registro de la cooperativa, se debe indicar la dirección completa, teléfonos y nombres de los coordinadores principales de la cooperativa.
+Por lo establecido en la ley, la cooperativa puede conformarse con un mínimo de 5 personas, sin ningún tipo dediscriminación y con necesidades y aspiraciones comunes. En nuestro caso, contamos con el mínimo permitidode integrantes.
+
+##2. Reserva del nombre de la cooperativa a crear.
+
+Para este paso tuvimos que descargar de internet (www.sunacoop.gob.ve) la planilla de solicitud dedenominación (también pudimos haberla solicitado en la sede Mérida de SUNACOOP). La planilla se llenó (verdocumentos anexos), dejando señalado entre otras cosas, tres nombres optativos para la asociacióncooperativa, ordenados del 1 al 3 por orden de prioridad, a fin de que el ente verifique y garantice que elnombre escogido no corresponda a una cooperativa ya registrada. Dicha planilla la entregamos en original ycopia –dejando un duplicado adicional para nuestros archivos- junto con las copias de cédulas. El nombreseleccionado para nuestra cooperativa fue: TEQUISAM (Tecnología Qímica en Suministros Alimenticios,Mérida)
+
+##3. Recibimiento de constancia y reserva de la denominación.
+ 
+Transcurridos 10 días hábiles, regresamos a la sede Mérida de SUNACOOP debido que el ente ya habíaverificado la no existencia del nombre de la cooperativa colocado como prioritario, en tal caso nos autorizópara el registro de la cooperativa bajo la denominación escogida y al respecto emanó:(1) Una constancia que certificaba la aprobación del nombre seleccionado.(2) La reserva de denominación; documento que garantizó por un plazo de 90 días continuos el reconocimientoy aceptación del nombre escogido, plazo dentro del cual tuvimos que efectuar el registro de la cooperativa.
+
+##4. Redacción y creación de los estatutos.
+
+(Antes de que venciera el plazo de 90 días). Nos reunimos en asamblea y establecimos en acta los estatutos porlos que se regiría nuestra cooperativa. Entre otras cosas consideramos como esencial hacer referencia a:denominación, duración y domicilio; determinación del objeto social; régimen y alcances de responsabilidad;condiciones de ingreso, seguridad, derechos, obligaciones, aportes, pérdida del carácter, suspensiones yexclusiones de los asociados; normas y atribuciones, forma y estructura de organización, coordinación,
+administración y control; modalidades en la toma de decisiones y división del trabajo; régimen disciplinario;formas de desarrollo en materia educativa; ejercicio económico; lapsos para la evaluación y control y;procedimiento de reforma, transformación, fusión, escisión, segregación, disolución y liquidación.
+
+##5. Registro del acta constitutiva.
+
+(Antes de que venciera el plazo de 90 días). Una vez aprobados los estatutos por la mayoría de los integrantesen la asamblea constitutiva, registramos el acta constitutiva para legalizar la cooperativa en el registrosubalterno de la localidad; obtuvimos así la personalidad jurídica de la cooperativa.
+
+##6- Obtención del R.I.F. en el SENIAT.
+
+Como “personas jurídicas”, consignamos ante la oficina del SENIAT en Mérida (calle 26, entre avenidas 7 y 8,frente al estadio Lourdes): formulario de inscripción, acta constitutiva registrada, original y copia de la últimaActa de Asamblea, original y copia del Documento Probatorio del domicilio fiscal, etc.
+
+##7- Solicitud de la constancia de inscripción de la cooperativa.
+
+(Antes de que venciera el plazo de 90 días y dentro de los 15 días hábiles luego de la legalización de lacooperativa). Consignamos los documentos (abajo especificados) en el siguiente orden: 2 copias de la reservade denominación; 2 copias del Acta Constitutiva; 2 copias del R.I.F. de la cooperativa y de cada asociado; 1carta original (indicando para cada uno de los asociados: apellidos y nombres, Nros de cédulas de identidad,Nros de teléfonos, dirección, cargo ocupado en la cooperativa) con 2 copias dirigida a SUNACOOP, solicitandola constancia de inscripción; y dos copias legibles de la cédula de cada miembro.
+
+##8- Constancia oficial de inscripción.
+
+Pasados 10 días hábiles nuevamente estuvimos en la sede Mérida de SUNACOOP, retirando la constancia deinscripción, con la carta de recibido y la(s) cédula(s) original(es) laminada(s).
+
+##9- ¡La cooperativa ya está formada!
+
+Una vez conformada la cooperativa, se puede dar marcha a los proyectos. Tenemos que estar pendiente de: (a)foliar y sellar ante la notaria y/o registro respectivo, los libros contables y sociales. (b) Aperturar una cuentabancaria a nombre de la cooperativa. (c) Elaborar los talonarios de facturación según el SENIAT. (d) Presentarante SUNACOOP (semestral o anual, según Providencia Administrativa 186-7 y 039-05) la información social ycontable. (e) Solicitar la certificación de cumplimiento a SUNACOOP según Providencia Administrativa 187-7. (f)Solicitar ante el SENIAT la extensión de I.S.L.R. ————————————————————————————————————————————
+
+                                        #**ACTA CONSTITUTIVA**
+
+Nosotros, ELIZABETH KARINA LEÓN LEMUS , titular de la cédula de identidad Nº V-XXXXXXXX,venezolano (a), soltero, DEANDREA OSUNA CORREDOR, titular de la cédula de identidad Nº V-XXXXXXXX, venezolano(a), soltero (a), KARIM SHARIB SMITTER ESTRADA, titular de la cédula deidentidad Nº V- XXXXXXXX, venezolano (a), soltero(a), AUDRA EMPERATRIZ PARRA CARRERO, titularde la cédula de identidad Nº V- XXXXXXXX, venezolano (a), soltero (a), YSAEL AUGUSTO MUÑOZMONSALVE, titular de la cédula de identidad Nº V- XXXXXXXX, reunidos en el Municipio Libertador,del Estado Mérida el día cinco (5) del mes de abril del año Dos Mil diez (2.010). Hemos decididoconstituir como en efecto lo hacemos mediante la presente Acta Constitutiva, una Cooperativaconforme a las disposiciones establecidas en la Ley Especial de Asociaciones Cooperativas. Lapresente Acta Constitutiva ha sido redactada con suficiente amplitud para que sirva a su vez deEstatutos Sociales, los cuales fueron debidamente debatidos y aprobados por los Asambleístas y sondel tenor siguiente:
+
+###**CAPÍTULO I. DENOMINACIÓN, RÉGIMEN DE RESPONSABILIDAD, DURACIÓN, DOMICILIO Y OBJETO.**
+
+**ARTÍCULO I:** La Asociación Cooperativa se denominará TEQUISAM. Adoptará un Régimen deResponsabilidad limitada, tendrá una duración indefinida y su domicilio legal será en el sector de “ElValle”, Parroquia Gonzalo Picón Febres del Municipio Libertador, del Estado Mérida.
+**ARTÍCULO 2:** OBJETO DE LA COOPERATIVA: El objeto de la Cooperativa se centra en la prestación deservicios en el área de alimentos y en general, el ejecutar todos los actos y contratos que seannecesarios para la consecución del mismo.
+
+###**CAPÍTULO II. DE LOS ASOCIADOS.
+**ARTÍCULO 3:** REQUISITOS PARA LA ADMISIÓN: Para ser asociado a la Cooperativa se requiere: a) Encaso de ser personas jurídicas, tener carácter civil y sin fines de lucro. b) En caso de ser personasnaturales: Ser mayor de edad o en caso de ser adolescente contar con la autorización de surepresentante legal; Ser productor, consumidor o usuario primario de bienes y servicios. c) Conocerlos principios, Formas Organizativas, Estatutos y Normas Legales y Reglamentarias que sustentan almovimiento Cooperativo. d) Suscribir y cancelar las Aportaciones necesarias para la formación delcapital de la Cooperativa.
+**ARTÍCULO 4:** DEBERES Y DERECHOS DE LOS ASOCIADOS: Son deberes y derechos de los asociados,además de los señalados en el Articulo 21 de la Ley Especial de Asociaciones Cooperativas lossiguientes: a) Participar en las actividades educativas de la Cooperativa, proyectar la imagen delCooperativismo ante la comunidad. b) Cubrir el valor de los certificados que hubiesen suscrito dentrode los plazos señalados por la Instancia de Administración, así como también las contribuciones oporcentajes fijados por la Asamblea para acrecentar los recursos económicos rotativos. c) Obtenerrespuesta de los planteamientos realizados por escrito. d) Obtener por escrito la informaciónnecesaria sobre la marcha y funcionamiento de la Cooperativa, cuando sea requerida.
+
+**ARTÍCULO 5:** PÉRDIDA DEL CARÁCTER DE ASOCIADO: El carácter de asociado se extingue por: a) Fin dela existencia de la persona física o jurídica. b) Renuncia. c) Perdida de las condiciones para serasociado, establecidas en la Ley, y estos Estatutos, sin perjuicio de lo previsto en el Artículo 19 de laley especial de Asociaciones Cooperativas. d) Exclusión acordada en la Reunión General de Asociadoso Asamblea por las causas establecidas en los Estatutos. e) Extinción de la Cooperativa.
+
+**ARTÍCULO 6:** CAUSA DE EXCLUSIÓN Y SUSPENSIÓN DE ASOCIADOS: a) No satisfacer sin justa causa yen el plazo previsto las aportaciones obligatorias. b) Negarse, sin motivo justificado, a desempeñar loscargos, comisiones e instrucciones que le encomiende o impartan regular o legítimamente losórganos y funcionarios competentes de la Cooperativa. c) Observar mala conducta o realizar actosque traduzcan en grave perjuicio moral o material para la Cooperativa. d) Infringir cualquiera de lasprohibiciones que la ley le impone a todo asociado de una Cooperativa. e) El no cumplimiento de losdeberes y el irrespeto a los derechos establecidos en el artículo 21 de la Ley Especial de Asociacionesde Cooperativas. f) El no cumplimiento o irrespeto de los demás deberes y derechos contemplados enel artículo 4 del presente Documento Constitutivo Estatutario.
+
+**ARTÍCULO 7:** DEL PROCEDIMIENTO Y LAS INSTANCIAS PARA EXCLUIR Y SUSPENDER A LOS SOCIOS:Para suspender un asociado, la Instancia de Evaluación y Control deberá citar al asociado para que sepresente ante ellos, en determinada fecha y hora, o se haga representar por otro asociado para hacerlas exposiciones de defensa que creyeren convenientes y probar hechos que consideren oportunos;en caso de prueba testimonial, los testigos declararán separadamente y sólo en presencia de losmiembros de la Instancia. Si no se presentare ni se hiciese representar por otro asociado, se liberará yse tomará la decisión en su ausencia por la mayoría de los miembros de la instancia. La decisióntomada se comunicará por escrito al interesado en un plazo de 72 horas, a partir del momento en quefuera acordado. Para excluir a un asociado el caso deberá someterse a la primera asamblea que sereúna y se deberá incluir un punto que se refiera al caso, sin mencionar el nombre del asociado en laconvocatoria; y se deberá, con siete (7) días de anticipación, informar y permitir al asociadoimponerse del expediente que le haya sido levantado por la Instancia de Control y Evaluación. LaInstancia podrá presentar a la asamblea la petición de exclusión, citando la causa legal, reglamentariao estatutaria en la cual se fundamenta. En la misma asamblea se le concederá al interesado elderecho de asumir su defensa por sí o por medio de otro asociado que designe; en caso de ausencia orebeldía por parte del interesado, la asamblea le nombrará defensor. Escuchados los alegatos yexaminada las pruebas la asamblea decidirá lo pertinente; la exclusión deberá ser acordada pormayoría absoluta de votos y en votación secreta de la cual se levantará acta y se hará constar lacausal, así como el número de votos a favor y en contra de la medida.
+
+**ARTÍCULO 8.** DEL REINTEGRO EN CASO DE RETIRO O EXCLUSIÓN: Cuando un Asociado se separe de laCooperativa, sea excluido o pierda su condición de tal, sólo tiene derecho a que se le reintegren lospréstamos que le haya hecho a la Cooperativa, respetando los plazos establecidos, el valor de lasaportaciones integradas y los excedentes que le correspondan deducidas las pérdidas queproporcionalmente les correspondiere soportar y sin perjuicios de la revalorización que pudierentener. De acuerdo a lo establecido en el Artículo 23 de la Ley Especial de Asociaciones Cooperativas.
+
+###**CAPITULO III. DE LAS FORMAS DE ORGANIZACIÓN, FUNCIONAMIENTO, COORDINACIÓN Y CONTROLDE LA COOPERATIVA. SECCIÓN PRIMERA DE LAS ASAMBLEAS.**
+
+**ARTÍCULO 9.** GENERALIDADES: La Asamblea es la autoridad suprema de la Cooperativa y sus acuerdosobligan a todos los asociados, presentes o ausentes, siempre que se tomen conforme a la Ley, y estosEstatutos. Las sesiones de la Asamblea serán Ordinarias o Extraordinarias. Son decisiones privativasde la Asamblea las señaladas en el Articulo 26 de la Ley Especial de Asociaciones Cooperativas y lasque señalan estos Estatutos y el Reglamento Interno. La ASAMBLEA ORDINARIA se celebrara una vezal año, dentro de tres meses siguientes al cierre del ejercicio económico. La agenda de la AsambleaOrdinaria, contemplará entre otros aspectos: La cuenta, el Balance General, los Informes o memoriasque las Instancias de Administración, de Evaluación y Control y de Educación u otras; debanpresentar, así como el Plan Anual de Actividades de la Cooperativa y sus respectivos Presupuestos yelección de nuevos Directivos, en sustitución de aquellos cuyo periodo haya vencido. LAS ASAMBLEASEXTRAORDINARIAS se celebrarán cuando se presente una actividad o gestión que no estécontemplada en el Plan Anual de Trabajo, y que por su cuantía comprometa la estabilidad económicade la Cooperativa, o cuando se presente cualquier circunstancia sobre la cual deba pronunciarse laAsamblea. De cada Asamblea se levantará un acta que será asentada en el Libro respectivo dentro delos diez días siguientes a su celebración y remitida a la Superintendencia Nacional de Cooperativaspara su archivo y fines legales consiguientes. La convocatoria para las Asambleas de Asociados, seanestas Ordinarias o Extraordinarias, se hará en un plazo de siete (7) días por la instancia deAdministración; si no procediere, la convocatoria deberá hacerla la instancia de Evaluación y Control oel cincuenta y un por ciento (51%) de los asociados con cinco (5) días de anticipación. La misma sepodrá hacer por medio de un aviso escrito dirigido a todos los Asociados, por un diario de mayorcirculación de la localidad o por cualquier otro medio de comunicación.
+
+**ARTÍCULO 10.** DEL QUÓRUM DE LA VOTACIÓN Y DE LOS ACUERDOS: La asamblea se consideraválidamente constituida cuando concurran el cincuenta y un por ciento (51%) de los asociados de lacooperativa. En caso de no haber quórum para la primera convocatoria, se convocará por segunda vezpara una fecha comprendida entre los tres (3) y cinco (5) días siguientes, celebrándose válidamentecon el número de asociados que concurran; esta circunstancia se hará saber en la convocatoria. Losacuerdos a que hubiese llegado la asamblea, deberán hacerse conocer por escrito a los asociados enun plazo no mayor de quince (15) días hábiles siguientes a la realización de la misma. a) Las decisionesse aprobarán por mayoría simple de votos de los asociados presentes y representados, salvo aquelloscasos especiales en donde la ley especial de Asociaciones de Cooperativas contemple mayoríascalificadas. b) Cada asociado tendrá derecho a un voto y podrá hacerse representar por otro asociadomediante carta poder. No se podrá representar a más de un asociado salvo lo contemplado en elartículo 28 de la Ley especial de Asociaciones de Cooperativas.
+
+###**SECCIÓN SEGUNDA DE LA INSTANCIA DE ADMINISTRACIÓN.**
+
+**ARTÍCULO 11.** DE LA INSTANCIA DE ADMINISTRACIÓN. DENOMINACIÓN Y ATRIBUCIONES: Laadministración y dirección de las actividades socioeconómicas de la Cooperativa, así como laejecución de los planes acordados en la Asamblea, ajustándose a las normas que ésta le haya fijado,estará a cargo de la instancia de Administración, que es el Órgano Ejecutivo de la Asamblea, tendrá asu cargo y ejercerá la representación de la cooperativa de conformidad con lo dispuesto en la Leyespecial de Asociaciones Cooperativas. Las atribuciones de la Instancia de Administración, serán lassiguientes: a) Llevar sistemas adecuados de contabilidad y control interno, así como cuidar de que losregistros y documentos necesarios se lleven y conserven bien. b) Solicitar del Tesorero la elaboraciónde los estados financieros completos; requerir la presentación trimestral del Balance de Comprobación; y además la preparación de informes mensuales cuando así lo crea conveniente. c)Efectuar anualmente un estudio financiero de la cooperativa y recomendar a la Asamblea la forma enque deberá utilizarse los excedentes. d) Presentar a la Asamblea la cuenta, el balance, los informes omemorias, el plan anual de actividades y su respectivo presupuesto, y los proyectos de reformasestatutarias, de conformidad con lo establecido en la Ley especial de Cooperativas. e) Convocar a laAsamblea cuando se presente una actividad o gestión que no esté contemplada en el plan anual detrabajo, y que por cuantía, a juicio de la Instancia de Administración o Control y Evaluación,comprometa la estabilidad económica de la cooperativa. f) Previa aprobación de la Asamblea,adquirir, enajenar y gravar bienes inmuebles, y celebrar toda clase de contratos sobre los mismos. g)Convocar, las Asambleas Ordinarias o Extraordinarias en el plazo que señala cada caso. h) y, engeneral, desarrollar las actividades establecidas en la Ley, estos Estatutos y el Reglamento Interno.
+
+**ARTÍCULO 12.** DE LA INSTANCIA DE ADMINISTRACIÓN. COMPOSICIÓN, REQUISITOS, DURACIÓN YCARGOS: la instancia de Administración estará integrada por tres (3) miembros principales, estosocuparán los cargos de Coordinador, Secretario y Tesorero. Los miembros durarán máximo tres (3)años en sus funciones, pudiendo ser reelectos por un (1) sólo período, para ser miembro de lainstancia de Administración se requiere: a) Ser Asociado, b) Poseer Solvencia Moral.
+
+**ARTÍCULO 13.** DE LA INSTANCIA DE ADMINISTRACIÓN. FACULTADES Y OBLIGACIONES DELCOORDINADOR: a) Presidir las sesiones de la instancia de Administración y de la asamblea. b) Firmarjunto con el Secretario, las Actas de las Asambleas y de las sesiones de la instancia. c) Representarlegalmente a la Cooperativa, según conste en Acta de dicha Instancia. d) Otorgar los contratos a quehace referencias estas Estatutos, previa autorización de la instancia de Administración. e) Aperturar ymovilizar las cuentas bancarias conjuntamente con el Tesorero. f) Cualquier otra facultad que leotorgue la asamblea o la Instancia de Administración.
+
+**ARTÍCULO 14.** DE LA INSTANCIA DE ADMINISTRACIÓN. FACULTADES Y OBLIGACIONES DELSECRETARIO: a) Asentar las Actas de las reuniones de la instancia de Administración y de lasAsambleas en los libros respectivos, y firmarlos conjuntamente con el Coordinador. b) Convocar lasreuniones de la instancia de Administración así como también a la Asamblea cuando lo acuerde dichaInstancia. c) Llevar el Libro de registro de asociados. d) Tramitar la correspondencia; y expedircertificaciones. e) Las otras que le señalen la Instancia de Administración o la Asamblea.
+
+**ARTÍCULO 15.** DE LA INSTANCIA DE ADMINISTRACIÓN. FACULTADES Y OBLIGACIONES DEL TESORERO:a) Supervisar y guardar bajo custodia, toda la documentación relacionada con los ingresos, depósitos,valores y uso de los fondos. b) Informar a la Instancia de Administración de cualquier irregularidadque se presente por parte de los asociados en el pago de sus certificados, préstamos o cualquiera otraobligación que tenga con la Cooperativa. c) Entregar bajo inventario, todos los libros, documentos,registros y demás pertenencias de la Cooperativa, tan pronto se nombre su sucesor. d) Aperturar ymovilizar las cuentas bancarias conjuntamente con el Coordinador. e) Las otras que les señale laInstancia de Administración y la Asamblea.
+
+###**SECCIÓN TERCERA. INSTANCIA DE CONTROL Y EVALUACIÓN.**
+
+**ARTÍCULO 16.** DE LA INSTANCIA DE CONTROL Y EVALUACIÓN. DENOMINACIÓN Y ATRIBUCIONES: LaCooperativa estará sujeta a la vigilancia y control de una instancia denominada Instancia de Control y Evaluación, la cual tendrá las siguientes atribuciones: a) Vigilar el cumplimiento de los deberes yobligaciones por parte de los miembros de la instancia de Administración, Educación, b) Vigilar laContabilidad para que sea llevada con la debida puntualidad y corrección en los libros autorizados ypara que los balances se realicen y se den a conocer a los asociados oportunamente, c) Vigilar lainversión de fondos sociales, d) Emitir dictamen sobre la memoria y cuenta de la Instancia deAdministración y presentarlo a la Asamblea, e) Vigilar el otorgamiento, renovación y la ejecución delas garantías que deben dar las personas que administren o tengan a su cargo bienes de lacooperativa, f) Comunicar a la Superintendencia Nacional de Cooperativas y a los Organismos deIntegración respectivos, cualquier información que lleguen a su conocimiento sobre manejosirregulares en la cooperativa, g) Ordenar auditorias y escoger las personas que deben realizarlas y fijarlas condiciones en que deben ser contratadas, h) Convocar, las Asambleas Ordinarias oExtraordinarias de acuerdo a lo establecido en este Estatuto si fuere el caso.
+
+**ARTÍCULO 17.** DE LA INSTANCIA DE CONTROL Y EVALUACIÓN. COMPOSICIÓN, REQUISITOS,DURACIÓN Y CARGOS: La Instancia de Control y Evaluación estará integrada por un (1) miembroprincipal. Los requisitos para ser miembro de la instancia de Control y Evaluación son los siguientes: a)Ser Asociado, b) Poseer Solvencia Moral. Los miembros de la Instancia de Control y Evaluacióndurarán tres (3) años máximo en sus cargos, y podrán ser reelectos por un período más. Estosocuparán los cargos de: Contralor.
+
+**ARTÍCULO 18.** DE LA INSTANCIA DE CONTROL Y EVALUACIÓN. ATRIBUCIONES Y OBLIGACIONES DELCONTRALOR: a) Evaluar el resultado de las operaciones económicas mediante el análisis de losestados financieros de la Cooperativa, b) Realizar las orientaciones y correctivos que sean necesariospara el mejor desempeño administrativo de la Cooperativa, c) Revisar periódicamente los libroscontable que por obligación de ley debe llevar la Cooperativa, d) Presentar a la asamblea un informeque deberá contener un estudio analítico sobre la memoria y cuenta de la Instancia deAdministración, el cual contemplará necesariamente los aspectos institucionales, financieros,contables, administrativos, sociales y educativos, e) Presidir las reuniones con los integrantes de laInstancia de evaluación y control.INSTANCIA DE EDUCACIÓN.ARTÍCULO 19. DE LA INSTANCIA DE EDUCACIÓN. ATRIBUCIONES, COMPOSICIÓN Y CARGOS: LaCooperativa tendrá una instancia destinada a fomentar la Educación Cooperativa denominadaInstancia de Educación, cuyas atribuciones serán las siguientes: a) La planificación y evaluacióncolectiva de la acción cooperativa cotidiana y permanente. b) El diseño colectivo de estructuras yprocesos organizativos que propicien el desarrollo de valores democráticos, solidarios y participativos.c) Los procesos de formación y capacitación. La Instancia de Educación estará conformada por un (1)miembro principal. Los miembros de la Instancia durarán en sus cargos tres (3) años y podrán serreelectos por un período más. Estos ocuparán los cargos de: Coordinador.ARTÍCULO 20. DE LA INSTANCIA DE EDUCACIÓN. ATRIBUCIONES Y OBLIGACIONES DELCOORDINADOR: a) Realizar y programar todas las actividades educativas de la Cooperativa, b) Realizarconvenios con Instituciones del Estado, privado u otras para fortalecer la capacitación de losasociados, empleados, obreros y la comunidad.
+
+###**CAPITULO IV. DEL RÉGIMEN Y DURACIÓN DEL EJERCICIO ECONÓMICO.**
+
+**ARTÍCULO 21.** RECURSOS PATRIMONIALES: Los recursos propios de carácter patrimonial estaránconstituidos por: Aportaciones de los asociados. b) Los excedentes acumulados en las reservas yfondos permanentes. c) Las donaciones, legados o cualquier otro aporte a título gratuito destinado aintegrar el capital de la cooperativa. Los aportes de los asociados son individuales, podrán hacerse endinero, especie o trabajo y tendrán un valor de 4.000,00 Bs, los que serán pagados totalmente.
+
+**ARTÍCULO 22.** El ejercicio económico de la cooperativa comienza el día primero (1°) de Enero yconcluye el día treinta y uno (31) de Diciembre de cada año, con excepción del primer ejercicio que secontará a partir de la protocolización en el Registro del Acta Constitutiva y los Estatutos de laCooperativa, hasta la fecha de terminación señalada.
+###**CAPITULO V. FONDOS, RESERVAS Y EXCEDENTES.**
+
+**ARTICULO 23:** Todo lo referente a los fondos, reservas y excedentes, se regirán por las disposicionesprevistas en el capítulo VII, Artículos 49, 51 y 54 de la Ley Especial de Asociaciones Cooperativas.
+
+###**CAPITULO VI. DE LAS NORMAS SOBRE LA INTEGRACIÓN DE LA COOPERATIVA.**
+
+**ARTÍCULO 24:** La Asamblea decidirá, previo informe presentado por la reunión conjunta de lasInstancias de Administración y Control todo lo relativo a la integración, así como la organización, sifuere el caso, a la cual se adscribirá la cooperativa. Pudiendo integrarse a los Organismos deIntegración, Cooperativas, Instituciones u Organismos del Estado que le garanticen el mejor desarrollosocio económico de la Cooperativa. En todo caso la cooperativa se regirá según lo dispuesto en elCapítulo VIII de la Ley Especial de Asociaciones de Cooperativas.
+
+###**CAPITULO VII. DE LOS PROCEDIMIENTOS PARA LA REFORMA DE ESTATUTOS.**
+
+**ARTÍCULO 25:** Las reformas estatutarias deben ser aprobadas por lo menos con el setenta y cinco(75%) de los asociados presentes en la reunión general de asociados o asamblea, de conformidad conlo establecido en el artículo 10 de los estatutos. El acta en la que conste la modificación de laidentificación de los asociados que la aprobaron y el estatuto, se protocolizarán dentro del término dequince (15) días hábiles. Entrará en vigencia una vez otorgado y registrado el documento demodificación. Las cooperativas deberán enviar a la Superintendencia Nacional de Cooperativas,dentro de los treinta (30) días hábiles siguientes, copia simple del documento registrado con lamodificación estatutaria.
+###**CAPÍTULO VIII. DE LOS PROCEDIMIENTOS PARA LA TRANSFORMACIÓN, FUSIÓN, ESCISIÓN,SEGREGACIÓN, DISOLUCIÓN Y LIQUIDACIÓN.**
+
+**ARTÍCULO 26.** Todo lo referente a los procedimientos para la transformación, fusión, escisión,segregación, disolución y Liquidación, se regirán por las disposiciones previstas en el capítulo XI de laLey Especial de Asociaciones Cooperativas.
+
+###**CAPÍTULO IX. DE LAS NORMAS SOBRE EL RÉGIMEN DISCIPLINARIO.**
+
+**ARTÍCULO 27.** La cooperativa establecerá en el reglamento interno las normas atinentes al régimendisciplinario de la cooperativa, el cual deberá ser aprobado por la asamblea.
+
+###**CAPITULO X. DE LAS NORMAS SOBRE EL TRABAJO COOPERATIVO.**
+
+**ARTÍCULO 28.** Todo lo referente al Trabajo en la Cooperativa, se regirá por las disposiciones previstasen el capítulo V de la Ley especial de Asociaciones Cooperativas.
+
+**ARTÍCULO 29.** DISPOSICIONES GENERALES Y TRANSITORIAS: Para todo lo no previsto en estosEstatutos, se aplicaran las disposiciones contenidas EN LA Ley especial de Asociaciones Cooperativas,las Normas del derecho Común y los Principios Generales del Derecho, así como las disposiciones yresoluciones emanadas de la Superintendencia Nacional de Cooperativas. Seguidamente la asambleaprocedió a la elección de los miembros integrantes de la instancias de administración, control yeducación los cuales luego de electos se reunieron por separado en el transcurso de la asamblea, a finde distribuir los cargos de los mismos, quedando conformados de la siguiente manera y por el lapsode tiempo que señala en cada caso: INSTANCIA DE ADMINISTRACION: Coordinador (a) General:Dehandrea Osuna Corredor, titular de la cédula de identidad Nº V- XXXXXXXX, elegido (a) por tres (3)años. Secretario (a): Elizabeth Karina León Lemus, titular de la cédula de identidad Nº V- XXXXXXXX,elegido(a) por tres (3) años. Tesorero (a): Audra Emperatriz Parra Carrero, titular de la cédula deidentidad Nº V- XXXXXXXX, elegido (a) por tres (3) años. INSTANCIA DE EVALUACIÓN Y CONTROL:Contralor (a): Karim Sharib Smitter Estrada, titular de la cédula de identidad Nº V- XXXXXXXX, elegido(a) por tres (3) años. INSTANCIA DE EDUCACION: Coordinador (a): Ysael Augusto Muñoz Monsalve,titular de la cédula de identidad Nº V- XXXXXXXX, elegido (a) por tres (3) años. Todos los Asociadossuscribieron un Certificado de aportación de cuatrocientos (400,00 Bs.), los que serán pagadostotalmente, lo que hace un capital suscrito y pagado de dos mil (2.000,00 Bs.), la Asamblea Autoriza alCiudadano (a) Dehandrea Osuna Corredor, titular de la cédula de identidad Nº V- XXXXXXXX en sucarácter de Coordinador de la Instancia de Administración, para que solicite el registro del presentedocumento por ante la autoridad competente en cuya jurisdicción tenga su Domicilio Legal laCooperativa y remitan copia de la misma a la Superintendencia Nacional de Cooperativas“SUNACOOP” dentro de los Quince (15) días siguientes a su registro, a fin de cumplir con lo dispuestoen el artículo 11 de la Ley especial de Asociaciones Cooperativas. Terminada la reunión se levanto laPresente Acta que es Copia Fiel y Exacta que reposa en el Libro de Actas de Asambleas. Firman enseñal de conformidad: 
+
+
+#**Firmas**
+
+               Dehandrea Osuna Corredor                             Elizabeth Karina León Lemus 
+                      V- XXXXXXXX                                       V- XXXXXXXX 
+                      
+                      
+               Dehandrea Osuna Corredor                             Elizabeth Karina León Lemus 
+                      V- XXXXXXXX                                       V- XXXXXXXX 
+                      
+                      
+                      
+                                     Elizabeth Karina León Lemus 
+                                             V- XXXXXXXX 
