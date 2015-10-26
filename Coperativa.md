@@ -4,9 +4,9 @@
 industrial, agrícola, pesquera, consumo, ahorro y préstamo, 
 conformada por personas con un mismo fin económico y social, 
 en donde el beneficio es determinado por la participación de 
-cada socio y no por la cantidad de dinero que haya aportado.** ###
+cada socio y no por la cantidad de dinero que haya aportado.**
 
-##Tipos de cooperativas: ##
+##Tipos de cooperativas: 
 1. Producción de Bienes y Servicios.
 2. Consumo de Bienes y Servicios.
 3. Cooperativas de Ahorro y Crédito.
@@ -65,7 +65,7 @@ Nosotros, ELIZABETH KARINA LEÓN LEMUS , titular de la cédula de identidad Nº 
 **ARTÍCULO I:** La Asociación Cooperativa se denominará TEQUISAM. Adoptará un Régimen deResponsabilidad limitada, tendrá una duración indefinida y su domicilio legal será en el sector de “ElValle”, Parroquia Gonzalo Picón Febres del Municipio Libertador, del Estado Mérida.
 **ARTÍCULO 2:** OBJETO DE LA COOPERATIVA: El objeto de la Cooperativa se centra en la prestación deservicios en el área de alimentos y en general, el ejecutar todos los actos y contratos que seannecesarios para la consecución del mismo.
 
-###**CAPÍTULO II. DE LOS ASOCIADOS.
+###**CAPÍTULO II. DE LOS ASOCIADOS.**
 **ARTÍCULO 3:** REQUISITOS PARA LA ADMISIÓN: Para ser asociado a la Cooperativa se requiere: a) Encaso de ser personas jurídicas, tener carácter civil y sin fines de lucro. b) En caso de ser personasnaturales: Ser mayor de edad o en caso de ser adolescente contar con la autorización de surepresentante legal; Ser productor, consumidor o usuario primario de bienes y servicios. c) Conocerlos principios, Formas Organizativas, Estatutos y Normas Legales y Reglamentarias que sustentan almovimiento Cooperativo. d) Suscribir y cancelar las Aportaciones necesarias para la formación delcapital de la Cooperativa.
 **ARTÍCULO 4:** DEBERES Y DERECHOS DE LOS ASOCIADOS: Son deberes y derechos de los asociados,además de los señalados en el Articulo 21 de la Ley Especial de Asociaciones Cooperativas lossiguientes: a) Participar en las actividades educativas de la Cooperativa, proyectar la imagen delCooperativismo ante la comunidad. b) Cubrir el valor de los certificados que hubiesen suscrito dentrode los plazos señalados por la Instancia de Administración, así como también las contribuciones oporcentajes fijados por la Asamblea para acrecentar los recursos económicos rotativos. c) Obtenerrespuesta de los planteamientos realizados por escrito. d) Obtener por escrito la informaciónnecesaria sobre la marcha y funcionamiento de la Cooperativa, cuando sea requerida.
 
