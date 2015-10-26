@@ -1,10 +1,10 @@
 #Requisitos para crear cooperativas en Venezuela
 
 ###Las Cooperativas son empresas de producción de bienes y servicios, 
-industrial, agrícola, pesquera, consumo, ahorro y préstamo, 
-conformada por personas con un mismo fin económico y social, 
-en donde el beneficio es determinado por la participación de 
-cada socio y no por la cantidad de dinero que haya aportado.
+###industrial, agrícola, pesquera, consumo, ahorro y préstamo, 
+###conformada por personas con un mismo fin económico y social, 
+###en donde el beneficio es determinado por la participación de 
+###cada socio y no por la cantidad de dinero que haya aportado.
 
 ##Tipos de cooperativas: 
 1. Producción de Bienes y Servicios.
