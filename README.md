@@ -8,13 +8,13 @@ La mangosta, un mamífero que habita ampliamente en las tierras del sur del cont
 
 1. La mangosta puede enfrentar animales del doble de su tamaño (como la cobra africana).
 2. La mangosta es un animal gregario, que realiza siempre el trabajo de caza, recolección y crianza, en equipo.
-3. La mangosta se comunica mediante redes complejas interconectadas entre si.
+3. La mangosta se comunica con otros mediante redes complejas interconectadas entre si.
 4. La mangosta es pequeña, pero con una excelente agilidad y libertad de movimiento.
 5. La mangosta es un mamífero curioso, protector y muy luchador.
 
 ## 2. Visión
 
-Innovación continua, datos abiertos y vinculados, me diante una gestion y direccion Social, basada en el mutuo desarrollo coperativo entre todos los integrantes, con una gerencia de los trabajadores para los trabajadores, donde el mismo sea retribuido por su trabajo. fijando metas comunes para el bienestar social tanto de la empresa como de su entorno.
+Innovación continua, datos abiertos y vinculados, mediante una gestión y dirección social, basada en el mutuo desarrollo cooperativo entre todos los integrantes, con una gerencia de los trabajadores para los trabajadores, donde sea retribuido por su trabajo, fijando metas comunes para el bienestar social tanto de la empresa como de su entorno.
 
 ## 3. Propósito
 
@@ -22,14 +22,14 @@ Las personas son entidades andantes de información. Queremos interconectar esas
 
 ## 4. Objetivo General
 
-Proporcionar un servicio oportuno a nuestros clientes para cubrir sus necesidades, manteniendo un desarrollo socialista e inovador en sus soluciones tecnologicas.
+Proporcionar un servicio oportuno a nuestros clientes para cubrir sus necesidades, manteniendo un desarrollo socialista e innovador en sus soluciones tecnológicas.
 
 ## 5. Objetivos específicos
 
-1. Crear soluciones de software soportados en tecnologías en constante evolución.
-2. Generar confianza en los clientes y garantizar su satisfacción total, convirtiendonos en sus socios estrategicos.
+1. Crear soluciones de software soportadas en tecnologías en constante evolución.
+2. Generar confianza en los clientes y garantizar su satisfacción total, convirtiéndonos en sus socios estratégicos.
 3. Mantener al personal informado y en constante aprendizaje, de las últimas tecnologías disponibles en el mercado.
-4. Ayudar al desarrollo de la sociedad venezolana mediante la creacion de oportunidades.
+4. Ayudar al desarrollo de la sociedad venezolana mediante la creación de oportunidades.
 
 ## 6. Áreas de interés
 
@@ -41,17 +41,16 @@ Proporcionar un servicio oportuno a nuestros clientes para cubrir sus necesidade
 6. Sistemas en tiempo real: Sistemas de información, control y análisis de la información con arquitecturas desacopladas y tiempos mínimos de respuesta.
 
 ## 7. Plan de trabajo para la creación de Mangoosta
-1. Definir tipo de empresa
-2. Crear estructura general 
-3. Crear los estatudos internos
-4. Definir roles
-5. establecer distribucion de cargas laborales, tiempos y reparticion de las riquesas al igual que reinversion de la misma.
+1. Definir tipo de empresa.
+2. Crear estructura general.
+3. Crear estatutos internos.
+4. Definir roles dentro del equipo.
+5. Establecer distribución de cargas laborales, tiempos y repartición de las riquezas al igual que la reinversión de la misma.
 
 ## 8. Integrantes
 
 * Jhony Grillet
 * Adriana Torres
-* Ruben Garcia
-* Rafael Areyano
-* victor Duque
+* Ruben García
+* Rafael Arellano
 * Ernesto Crespo 
